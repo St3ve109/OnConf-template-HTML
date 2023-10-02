@@ -729,6 +729,7 @@
 }
 .home-hero2 {
   width: auto;
+  height: 100%;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   max-width: auto;
