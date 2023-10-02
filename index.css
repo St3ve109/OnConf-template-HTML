@@ -1032,6 +1032,10 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
+  .home-image {
+    width: auto;
+    height: auto;
+  }
   .home-nav1 {
     gap: var(--dl-space-space-oneandhalfunits);
   }
