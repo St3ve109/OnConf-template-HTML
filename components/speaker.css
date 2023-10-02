@@ -81,35 +81,3 @@
 
 
 
-@media(max-width: 991px) {
-  .speaker-name {
-    font-size: 20px;
-  }
-  .speaker-point {
-    margin-top: 4px;
-  }
-  .speaker-caption {
-    font-size: 10px;
-  }
-}
-@media(max-width: 767px) {
-  .speaker-speaker {
-    padding-bottom: var(--dl-space-space-oneandhalfunits);
-  }
-  .speaker-name {
-    font-size: 14px;
-  }
-  .speaker-point {
-    max-width: 20px;
-    margin-top: 0px;
-  }
-  .speaker-caption {
-    font-size: 10px;
-  }
-}
-@media(max-width: 479px) {
-  .speaker-point {
-    width: 100%;
-    max-width: 20px;
-  }
-}

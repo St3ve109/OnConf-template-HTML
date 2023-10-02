@@ -28,16 +28,3 @@
 
 
 
-@media(max-width: 767px) {
-  .feature-card21-feature-card {
-    flex-direction: row;
-  }
-  .feature-card21-container {
-    flex-direction: column;
-  }
-}
-@media(max-width: 479px) {
-  .feature-card21-container {
-    flex-direction: column;
-  }
-}

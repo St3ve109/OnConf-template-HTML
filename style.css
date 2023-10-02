@@ -209,23 +209,3 @@
   text-transform: none;
   text-decoration: none;
 }
-@media(max-width: 991px) {
-  .image-notes {
-    flex: 0 0 auto;
-    width: 100%;
-  }
-}
-@media(max-width: 767px) {
-  .social {
-    width: 18px;
-  }
-  .brand {
-    aspect-ratio: 16/9;
-  }
-}
-@media(max-width: 479px) {
-  .accordion {
-    padding-top: var(--dl-space-space-oneandhalfunits);
-    padding-bottom: var(--dl-space-space-oneandhalfunits);
-  }
-}
