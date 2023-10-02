@@ -844,6 +844,13 @@
     min-height: auto;
     background-image: linear-gradient(45deg, rgb(252, 0, 255) 0.00%,rgb(0, 219, 222) 100.00%);
   }
+  .home-button4 {
+    color: #ffffff;
+    background-color: #000000;
+  }
+  .home-button5 {
+    color: #000000;
+  }
 }
 @media(max-width: 1200px) {
   .home-image {
